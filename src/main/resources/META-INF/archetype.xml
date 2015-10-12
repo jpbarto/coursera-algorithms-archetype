@@ -13,5 +13,6 @@
   <resources>
     <resource>src/main/resources/findbugs.xml</resource>
     <resource>src/main/resources/checkstyle.xml</resource>
+    <resource>src/assembly/submission.xml</resource>
   </resources>
 </archetype>
